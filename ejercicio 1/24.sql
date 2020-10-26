@@ -1,0 +1,1 @@
+select first_name  from psdb.employees where first_name = 'Yinghua' or first_name= 'Elvis';
