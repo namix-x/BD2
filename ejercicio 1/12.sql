@@ -1,0 +1,1 @@
+select distinct first_name  from psdb.employees  order by emp_no limit 100;
