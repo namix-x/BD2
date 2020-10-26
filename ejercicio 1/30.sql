@@ -1,0 +1,1 @@
+select * from psdb.employees where employees.emp_no > '14037' and  employees.emp_no<= 14047  ;
