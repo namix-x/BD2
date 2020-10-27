@@ -1,0 +1,1 @@
+select * from psdb.employees where employees.emp_no <=  485733 and  employees.first_name =  '%Crist%'   ;
