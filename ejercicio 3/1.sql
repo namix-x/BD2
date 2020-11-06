@@ -1,0 +1,1 @@
+select  count(Name) as mycount from world.country ;
