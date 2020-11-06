@@ -1,0 +1,1 @@
+select count(Name) AS TotalPaises, continent from world.country group by Continent
